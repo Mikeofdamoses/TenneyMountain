@@ -11,5 +11,6 @@
 
     .fblogo {
         height: 23px;
+        display: flex;
     }
 }
