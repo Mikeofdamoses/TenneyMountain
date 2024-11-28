@@ -1,0 +1,142 @@
+@media screen and (max-width: 480px){
+    .contact1 {
+        width: auto;
+    }
+
+    .contact2 {
+        width: auto;
+    }
+
+    .plandscaping {
+        font-size: x-large;
+        font-weight: 200;
+        margin-left: 80px;
+        margin-top: 1px;
+    }
+
+    .lp1 {
+        margin-left: 55px;
+    }
+    
+    .lp2 {
+        margin-left: 52px;
+        margin-top: -7px;
+    }
+    
+    .lp3 {
+        margin-left: 53px;
+        margin-top: -7px;
+    }
+    
+    .lp4 {
+        margin-left: 59px;
+        margin-top: -7px;
+    }
+
+    .walkpic {
+        height: 200px;
+        margin-left: 350px;
+        margin-top: -371px;
+        display: flex;
+    }
+
+    .deckpic {
+        height: 200px;
+        margin-left: 700px;
+        margin-top: -343px;
+        display: flex;
+    }
+
+    .phardscaping {
+        margin-left: 423px;
+        margin-top: 4px;
+        font-size: x-large;
+        font-weight: 200;
+    }
+
+    .hp1 {
+        margin-left: 370px;
+    }
+    
+    .hp2 {
+        margin-left: 385px;
+        margin-top: -7px;
+    }
+    
+    .hp3 {
+        margin-left: 420px;
+        margin-top: -7px;
+    }
+
+    .deckpic {
+        height: 200px;
+        margin-left: 700px;
+        margin-top: -343px;
+        display: flex;
+    }
+    
+    .pconstruction {
+        margin-left: 770px;
+        margin-top: 4px;
+        font-size: x-large;
+        font-weight: 200;
+    }
+    
+    .cop1 {
+        margin-left: 720px;
+    }
+    
+    .cop2 {
+        margin-left: 725px;
+        margin-top: -7px;
+    }
+    
+    .cop3 {
+        margin-left: 760px;
+        margin-top: -7px;
+    }
+
+    .snow {
+        height: 200px;
+        margin-left: 1049px;
+        margin-top: -343px;
+        display: flex;
+    }
+    
+    .pas {
+        margin-left: 1100px;
+        margin-top: 4px;
+        font-size: larger;
+        display: block;
+    }
+    
+    .asp1 {
+        margin-left: 1080px;
+        margin-top: 29px;
+    }
+    
+    .asp2 {
+        margin-left: 1099px;
+        margin-top: -7px;
+    }
+
+    .fblogo {
+        height: 25px;
+        margin-top: 40px;
+        
+    }
+
+    .couf {
+        margin-left: 35px;
+        margin-top: -15px;
+        width: 300px;
+        display: block;
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+    }
+
+    
+
+    
+}
