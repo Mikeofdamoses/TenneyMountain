@@ -10,7 +10,7 @@
     }
 
     .fblogo {
-        height: 15px;
+        margin-top: 15px;
         display: flex;
     }
 }
