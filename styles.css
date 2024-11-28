@@ -1,0 +1,316 @@
+h1 {
+    text-align: center;
+    font-family: Arial Narrow, sans-serif;
+    margin-top: -40px;
+    color: white;
+    margin-left: 400px;
+    
+    
+    
+}
+
+body {
+    background-color: white;
+    width: 1000px;
+    margin: auto 0;
+    padding: 0;
+    
+
+}
+
+.topheader {
+    background-color: #1d573afa;
+    width: 1366px;
+    height: 50px;
+    display: flex;
+    margin: 0px;
+    
+    
+
+}
+
+.contact1 {
+    color: white;
+    font-size: large;
+    display: flex;
+    justify-content: right;
+    margin-right: 15px;
+    margin-left: 5px;
+    padding: auto;
+    font-family: Arial Narrow, sans-serif;
+    margin-top: 24px;
+    text-decoration: none;
+
+}
+
+
+.contact2 {
+    color: white;
+    font-family: Arial Narrow, sans-serif;
+    font-size: large;
+    display: flex;
+    justify-content: right;
+    margin-top: 24px;
+    text-decoration: none;
+}
+
+.contactus {
+    color: white;
+    font-size: larger;
+    display: flex;
+    justify-content: right;
+    margin-left: 1020px;
+    margin-top: 22px;
+    text-decoration: none;
+    
+}
+
+.walkway {
+    width: 24%;
+    margin-top: 50px;
+}
+
+.fpsbanner {
+    background-color: white;
+    width: 1366px;
+    height: 70px;
+    margin-top: -20px;
+}
+
+.selections {
+    margin-top: -43px;
+    text-align: right;
+    display: block;
+    margin-right: -360px;
+    
+
+    
+}
+
+.selections a {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.selections a:hover {
+    color: forestgreen;
+}
+
+.descrip {
+    margin-left: 560px;
+    margin-top: -50px;
+    font-family: Arial Narrow, sans-serif;
+    display: block;
+    font-size: 25px;
+    color: #1d573afa;
+    font-weight: 1000;
+}
+
+.mtnlogo {
+    height: 50px;
+    margin-left: 10px;
+    margin-top: -40px;
+}
+
+
+
+.bigwhite {
+    background-color: white;
+    height: 450px;
+    width: 1325px;
+    position: absolute;
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+
+.bigblue {
+    background-color: #251d6d;
+    height: 480px;
+    width: 1350px;
+    min-height: auto;
+    min-width: auto;
+    display: flex;
+    margin-left: 6px;
+    border: solid black 2px;
+    border-radius: 5px;
+    box-shadow: 0 0 2px 1px #251d6d;
+    overflow: hidden;
+    position: absolute;
+
+}
+
+.fence {
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.plandscaping {
+    font-size: x-large;
+    font-weight: 200;
+    margin-left: 65px;
+    margin-top: 1px;
+}
+
+.hp1 {
+    margin-left: 350px;
+}
+
+.hp2 {
+    margin-left: 366px;
+    margin-top: -7px;
+}
+
+.hp3 {
+    margin-left: 420px;
+    margin-top: -7px;
+}
+
+
+.walkpic {
+    height: 200px;
+    margin-left: 350px;
+    margin-top: -377px;
+    display: flex;
+}
+
+.phardscaping {
+    margin-left: 410px;
+    margin-top: 4px;
+    font-size: x-large;
+    font-weight: 200;
+}
+
+.lp1 {
+    margin-left: 35px;
+}
+
+.lp2 {
+    margin-left: 32px;
+    margin-top: -7px;
+}
+
+.lp3 {
+    margin-left: 33px;
+    margin-top: -7px;
+}
+
+.lp4 {
+    margin-left: 45px;
+    margin-top: -7px;
+}
+
+.deckpic {
+    height: 200px;
+    margin-left: 700px;
+    margin-top: -348px;
+    display: flex;
+}
+
+.pconstruction {
+    margin-left: 750px;
+    margin-top: 4px;
+    font-size: x-large;
+    font-weight: 200;
+}
+
+.cop1 {
+    margin-left: 695px;
+}
+
+.cop2 {
+    margin-left: 702px;
+    margin-top: -7px;
+}
+
+.cop3 {
+    margin-left: 740px;
+    margin-top: -7px;
+}
+
+.snow {
+    height: 200px;
+    margin-left: 1049px;
+    margin-top: -348px;
+    display: flex;
+}
+
+.pas {
+    margin-left: 1080px;
+    margin-top: 4px;
+    font-size: larger;
+    display: block;
+}
+
+.asp1 {
+    margin-left: 1060px;
+    margin-top: 29px;
+}
+
+.asp2 {
+    margin-left: 1080px;
+    margin-top: -7px;
+}
+
+.coog {
+    margin-top: 100px;
+    text-align: center;
+    font-size: large;
+    
+}
+
+.coog a {
+    text-decoration: none;
+    color: #251d6d;
+}
+
+.coog a:hover {
+    color: forestgreen;
+}
+
+.fblogo {
+    display: flex;
+    height: 28px;
+    margin-top: 35px;
+}
+
+.est2024 {
+    margin-left: 605px;
+    font-size: large;
+    display: block;
+    margin-top: -23px;
+    color: #1d573afa;
+}
+
+.email {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 1160px;
+    margin-top: -38px;
+}
+
+.email:hover {
+    color: forestgreen;
+    
+}
+
+.couf {
+    margin-left: 35px;
+    margin-top: -20px;
+    width: 300px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.couf:hover {
+    color: rgb(34, 59, 139);
+}
